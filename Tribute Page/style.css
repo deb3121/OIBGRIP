@@ -1,0 +1,18 @@
+#img-div{
+    background-color: #a3a33f;
+    border:10px solid #a3a349;
+    margin-bottom: 10px;
+}
+img {
+    box-shadow: 5px 10px 8px #b4b42e;
+    padding: 1%;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+#img-caption{
+    margin:15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    color: #5c5c14;
+}
